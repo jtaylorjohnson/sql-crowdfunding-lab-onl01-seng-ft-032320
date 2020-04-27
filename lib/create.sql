@@ -18,9 +18,4 @@ CREATE TABLE pledges (
   project_id INTEGER);
 
   
-#alphabetized list of usernames, ages, with pledge amount
 
-#SELECT users.name, users.age, pledges.amount FROM users 
-#INNER JOIN pledges
-#ON users.id = pledges.user_id
-#GROUP BY users.name;
