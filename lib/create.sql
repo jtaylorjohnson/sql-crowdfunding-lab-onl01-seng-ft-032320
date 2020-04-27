@@ -18,4 +18,4 @@ CREATE TABLE pledges (
   project_id INTEGER);
 
   
-  alphabetized list of usernames with a
+  alphabetized list of usernames with pledge amount
